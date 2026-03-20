@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Jesús! 👋
 
-<!--
-**jesus212109/jesus212109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I am a software developer based in Córdoba, Spain, with a strong focus on Computer Vision and robust software development.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages & Version Control:** C, C++, Python, SQL, Git & GitHub
+* **Libraries & Frameworks:** OpenCV
+
+### 🚀 About Me
+
+* 🔭 I specialize in computer vision applications and low-level programming.
+* 🌱 I am constantly exploring new ways to process and analyze visual data efficiently.
+* 📫 How to reach me:
+  * **Email:** jfl.engineer@gmail.com
+  * **LinkedIn:** [JesusFernandezLopez](https://linkedin.com/in/JesusFernandezLopez)
+
+---
+*Feel free to explore my repositories below!*
