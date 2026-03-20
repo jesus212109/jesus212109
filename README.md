@@ -1,19 +1,30 @@
-# Hi there, I'm Jesús! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Developer;Computer+Vision+Enthusiast;C%2FC%2B%2B+%26+Python" alt="Typing SVG" />
+</div>
 
 Welcome to my GitHub profile. I am a software developer based in Córdoba, Spain, with a strong focus on Computer Vision and robust software development.
 
 ### 🛠️ Tech Stack & Skills
 
-* **Languages & Version Control:** C, C++, Python, SQL, Git & GitHub
-* **Libraries & Frameworks:** OpenCV
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ### 🚀 About Me
 
 * 🔭 I specialize in computer vision applications and low-level programming.
 * 🌱 I am constantly exploring new ways to process and analyze visual data efficiently.
-* 📫 How to reach me:
-  * **Email:** jfl.engineer@gmail.com
-  * **LinkedIn:** [JesusFernandezLopez](https://linkedin.com/in/JesusFernandezLopez)
+* 📫 How to reach me: 
+  <a href="mailto:jfl.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/JesusFernandezLopez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
----
-*Feel free to explore my repositories below!*
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jesus212109&show_icons=true&theme=transparent&hide_border=true" alt="Jesus's GitHub Stats" />
+</div>
