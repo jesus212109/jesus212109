@@ -18,7 +18,6 @@ Welcome to my GitHub profile. I am a software developer based in Córdoba, Spain
 ### 🚀 About Me
 
 * 🔭 I am currently focusing on **local Home Automation systems**, developing autonomous AI agents with **OpenClaw** without cloud dependency.
-* 🌱 I am constantly exploring embedded systems, industrial protocols (Modbus/BACnet), and energy optimization.
 * 📫 How to reach me: 
   <a href="mailto:jfl.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/JesusFernandezLopez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
